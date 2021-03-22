@@ -1,1 +1,1 @@
-# C-Project-S2-TEAM-10-
+## C++ Project S2 [TEAM 10]
